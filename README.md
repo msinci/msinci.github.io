@@ -1,12 +1,15 @@
-# Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA
+# Mehmet Sinan Inci<br />PhD candidate @ Worcester Polytechnic Institute
 
 Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats
 Currently in love with Machine Learning & Deep Learning
 
 Full site available @ <a href="http://www.msinci.com">http://www.msinci.com</a><br>
 
-## Publications
+## Repositories
 
+--Exciting stuff coming soon!
+
+## Publications
 ### 2017
 - Hit by the Bus: QoS Degradation Attack on Android <a href="f/p/Mobile_QoS.pdf">**PDF**</a><br>
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
