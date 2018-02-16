@@ -17,9 +17,9 @@ Full site available @ www.msinci.com
   Published @ ACSAC 2016, Proceedings of the 32nd Annual Conference on Computer Security Applications, ACM
 - SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs [PDF]({{ site.url }}/f/p/Mobile_QoS.pdf)
   Published @ CARDIS 2016, Proceedings of the Smart Card Research and Advanced Application Conference
-- Cache Attacks Enable Bulk Key Recovery on the Cloud [PDF](./f/p/Mobile_QoS.pdf)
+- Cache Attacks Enable Bulk Key Recovery on the Cloud [PDF](www.msinci.com/f/p/Mobile_QoS.pdf)
   Published @ CHES 2016, Conference on Cryptographic Hardware and Embedded Systems
-- Cross-VM Cache Attacks on AES [PDF](./f/p/Mobile_QoS.pdf)
+- Cross-VM Cache Attacks on AES [PDF](msinci.com/f/p/Mobile_QoS.pdf)
   Published @ IEEE Transactions on Multi-Scale Computing Systems
 - Co-location detection on the Cloud [PDF](./f/p/Mobile_QoS.pdf)
   Published @ COSADE 2016, 7th International Workshop on Constructive Side-Channel Analysis and Secure Design
