@@ -12,7 +12,7 @@ Currently in love with Machine Learning & Deep Learning
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
 
 # 2016 #
-- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure [PDF](./f/p/Mobile_QoS.pdf)
+- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure [PDF]({{ site.url }}/f/p/Mobile_QoS.pdf)
   Published @ ACSAC 2016, Proceedings of the 32nd Annual Conference on Computer Security Applications, ACM
 - SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs [PDF](./f/p/Mobile_QoS.pdf)
   Published @ CARDIS 2016, Proceedings of the Smart Card Research and Advanced Application Conference
