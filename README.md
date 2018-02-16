@@ -13,9 +13,9 @@ Full site available @ www.msinci.com
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
 
 # 2016 #
-- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure [PDF]({{ site.baseurl }}/f/p/Mobile_QoS.pdf)
+- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure [PDF]({{ site.url }}/f/p/Mobile_QoS.pdf)
   Published @ ACSAC 2016, Proceedings of the 32nd Annual Conference on Computer Security Applications, ACM
-- SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs [PDF]({{ site.url }}./f/p/Mobile_QoS.pdf)
+- SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs [PDF]({{ site.url }}/f/p/Mobile_QoS.pdf)
   Published @ CARDIS 2016, Proceedings of the Smart Card Research and Advanced Application Conference
 - Cache Attacks Enable Bulk Key Recovery on the Cloud [PDF](./f/p/Mobile_QoS.pdf)
   Published @ CHES 2016, Conference on Cryptographic Hardware and Embedded Systems
