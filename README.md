@@ -1,15 +1,15 @@
 ```markdown
-# Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA
+### Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA
 
 Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats to modern computing systems. Currently in love with Machine Learning & Deep Learning.
 
 ## Publications
 
-### 2017
+# 2017
 
 - Hit by the Bus: QoS Degradation Attack on Android, published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security [PDF](./f/p/Mobile_QoS.pdf)
 
-### 2016
+# 2016
 
 - Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure, published @ ACSAC 2016, Proceedings of the 32nd Annual Conference on Computer Security Applications, ACM
 
@@ -21,7 +21,7 @@ Cloud and mobile security researcher with focus on side-channel attacks and othe
 
 - Co-location detection on the Cloud, published @ COSADE 2016, 7th International Workshop on Constructive Side-Channel Analysis and Secure Design
 
-### 2015
+# 2015
 
 - Seriously, get off my cloud! Cross-VM RSA Key Recovery in a Public Cloud, published @ IACR Cryptology ePrint Archive
 
@@ -31,28 +31,10 @@ Cloud and mobile security researcher with focus on side-channel attacks and othe
 
 - Lucky 13 Strikes Back, published @ AsiaCCS 2015, Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security
 
-### 2014
+# 2014
 
 - Fine Grain Cross-VM Attacks on Xen and VMware, published @ BdCloud 2014, IEEE Fourth International Conference on Big Data and Cloud Computing
 
 - Wait a minute! A fast, Cross-VM attack on AES, published @ RAID 2014, Research in Attacks, Intrusions and Defenses 
-    
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ 
 ```
