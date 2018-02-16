@@ -1,8 +1,3 @@
-
-<a href="f/p/Mobile_QoS.pdf">PDF</a><br>
-
-
-```markdown
 ### Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA ###
 
 Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats
@@ -12,22 +7,22 @@ Full site available @ www.msinci.com
 
 ## Publications ##
 
-```
+
 # 2017 #
 - Hit by the Bus: QoS Degradation Attack on Android [PDF](http://google.com)
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
-```markdown
+
 
 # 2016 #
-- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure [PDF]({{ site.url }}/f/p/Mobile_QoS.pdf)
+- Efficient, Adversarial Neighbor Discovery using Logical Channels on Microsoft Azure<a href="f/p/Azure_Colocation.pdf">PDF</a><br>
   Published @ ACSAC 2016, Proceedings of the 32nd Annual Conference on Computer Security Applications, ACM
-- SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs [PDF]({{ site.url }}/f/p/SpecTre.pdf)
+- SpecTre: A Tiny Side-Channel Resistant Speck Core for FPGAs<a href="f/p/SpecTre.pdf">PDF</a><br>
   Published @ CARDIS 2016, Proceedings of the Smart Card Research and Advanced Application Conference
-- Cache Attacks Enable Bulk Key Recovery on the Cloud [PDF](www.msinci.com/f/p/Bulk_RSA_on_EC2.pdf)
+- Cache Attacks Enable Bulk Key Recovery on the Cloud<a href="f/p/Bulk_RSA_on_EC2.pdf">PDF</a><br>
   Published @ CHES 2016, Conference on Cryptographic Hardware and Embedded Systems
-- Cross-VM Cache Attacks on AES [PDF](msinci.com/f/p/journal_AES.pdf)
+- Cross-VM Cache Attacks on AES<a href="f/p/journal_AES.pdf">PDF</a><br>
   Published @ IEEE Transactions on Multi-Scale Computing Systems
-- Co-location detection on the Cloud [PDF](./f/p/Colocation_Detection.pdf)
+- Co-location detection on the Cloud<a href="f/p/Colocation_Detection.pdf">PDF</a><br>
   Published @ COSADE 2016, 7th International Workshop on Constructive Side-Channel Analysis and Secure Design
 
 # 2015 #
@@ -45,5 +40,4 @@ Full site available @ www.msinci.com
   Published @ BdCloud 2014, IEEE Fourth International Conference on Big Data and Cloud Computing
 - Wait a minute! A fast, Cross-VM attack on AES [PDF](./f/p/Wait_a_Minute.pdf)
   Published @ RAID 2014, Research in Attacks, Intrusions and Defenses 
- 
-```
+
