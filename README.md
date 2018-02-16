@@ -9,7 +9,7 @@ Full site available @ www.msinci.com
 ## Publications ##
 
 # 2017 #
-- Hit by the Bus: QoS Degradation Attack on Android [PDF](./f/p/Mobile_QoS.pdf)
+- Hit by the Bus: QoS Degradation Attack on Android [PDF](http://google.com)
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
 
 # 2016 #
