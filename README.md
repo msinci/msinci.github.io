@@ -1,9 +1,8 @@
 ```markdown
 ### Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA ###
 
-Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats to modern computing systems. Currently in love with Machine Learning & Deep Learning.
-
-
+Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats
+Currently in love with Machine Learning & Deep Learning
 
 
 ## Publications ##
