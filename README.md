@@ -1,3 +1,7 @@
+
+<embed src="https://msinci.github.io/f/p/Mobile_QoS.pdf" type="application/pdf" />
+
+
 ```markdown
 ### Mehmet Sinan Inci, PhD candidate @ WPI, Worcester, MA ###
 
