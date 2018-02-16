@@ -1,7 +1,7 @@
 # Mehmet Sinan Inci<br/>Security Researcher, PhD candidate @ WPI
 
 Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats
-Currently in love with Machine Learning & Deep Learning
+<br>Currently in love with Machine Learning & Deep Learning
 
 Full site available @ <a href="http://www.msinci.com">http://www.msinci.com</a><br>
 
