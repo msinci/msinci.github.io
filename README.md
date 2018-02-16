@@ -1,5 +1,5 @@
 
-<embed src="https://msinci.github.io/f/p/Mobile_QoS.pdf" type="application/pdf" />
+<a href="f/p/Mobile_QoS.pdf">PDF</a><br>
 
 
 ```markdown
@@ -12,7 +12,7 @@ Full site available @ www.msinci.com
 
 ## Publications ##
 
-<embed src="https://msinci.github.io/f/p/Mobile_QoS.pdf" type="application/pdf" />
+<a href="f/p/Mobile_QoS.pdf">PDF</a><br>
 
 # 2017 #
 - Hit by the Bus: QoS Degradation Attack on Android [PDF](http://google.com)
