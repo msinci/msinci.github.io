@@ -1,9 +1,8 @@
 # Mehmet Sinan Inci<br> Security Researcher @ Intel
 
 Cloud and mobile security researcher with focus on side-channel attacks and other micro-architectural threats
-<br>Currently in love with Machine Learning & Deep Learning
+<br>Currently in love with Deep Learning and Fuzzing
 
-Full site available @ <a href="http://www.msinci.com">http://www.msinci.com</a><br>
 
 ## Repositories
 
