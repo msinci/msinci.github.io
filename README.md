@@ -5,8 +5,14 @@ Cloud and mobile security researcher with focus on side-channel attacks and othe
 
 
 ## Repositories
+-TODO
 
 ## Publications
+
+### 2019
+- DeepCloak: Adversarial Crafting As a Defensive Measure to Cloak Processes <a href="f/p/deepcloak.pdf">**PDF**</a><br>
+  published @ DYNAMICS 2019, Proceedings of the DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security
+
 ### 2017
 - Hit by the Bus: QoS Degradation Attack on Android <a href="f/p/Mobile_QoS.pdf">**PDF**</a><br>
   published @ AsiaCCS 2017, Proceedings of the 12th ACM Symposium on Information, Computer and Communications Security
